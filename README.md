@@ -1,5 +1,5 @@
  <p align='center'>
-  <img alt='LogoPic' src='https://reactnative.dev/img/header_logo.svg'   width='400px' height='400px' />
+  <img alt='LogoPic' src='https://reactnative.dev/img/header_logo.svg'   width='300px' height='300px' />
 </p>
 
 # MARVEL APP
@@ -17,8 +17,8 @@ informacion de sus personajes , toda su informacion relacionada con sus historie
 Tambien podemos realizar busquedas de nuestras historietas favoritas.
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/131618874-6ec9e8e4-a0c8-43ee-a71f-1651906b741b.png" width="30%" height='450px'>
 <img  src="https://user-images.githubusercontent.com/76981775/131618957-a23faf40-567b-4c1d-b8e1-20fea1b83b84.png" width="30%" height='450px'>
+<img  src="https://user-images.githubusercontent.com/76981775/131618874-6ec9e8e4-a0c8-43ee-a71f-1651906b741b.png" width="30%" height='450px'>
 <img  src="https://user-images.githubusercontent.com/76981775/131619036-96dcbb04-c499-4eef-8a0b-5532af5be8d1.png" width="30%" height='450px'>
 </p>
 
