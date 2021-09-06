@@ -1,5 +1,5 @@
  <p align='center'>
-  <img alt='LogoPic' src='https://reactnative.dev/img/header_logo.svg'   width='300px' height='300px' />
+  <img alt='LogoPic' src='https://reactnative.dev/img/header_logo.svg'   width='200px' height='200px' />
 </p>
 
 # MARVEL APP
