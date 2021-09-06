@@ -14,6 +14,8 @@ informacion de sus personajes , toda su informacion relacionada con sus historie
 <img  src="https://user-images.githubusercontent.com/76981775/131618828-eeed9522-3983-4e49-8eff-6339a3d18e86.png" width="30%" height='450px'>
 </p>
 
+*****************
+
 Tambien podemos realizar busquedas de nuestras historietas favoritas.
 
 <p align="center">
@@ -21,6 +23,8 @@ Tambien podemos realizar busquedas de nuestras historietas favoritas.
 <img  src="https://user-images.githubusercontent.com/76981775/131618874-6ec9e8e4-a0c8-43ee-a71f-1651906b741b.png" width="30%" height='450px'>
 <img  src="https://user-images.githubusercontent.com/76981775/131619036-96dcbb04-c499-4eef-8a0b-5532af5be8d1.png" width="30%" height='450px'>
 </p>
+
+*****************
 
 ### ¿Cómo se hizo?
 
