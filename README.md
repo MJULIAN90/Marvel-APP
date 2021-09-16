@@ -30,4 +30,7 @@ Tambien podemos realizar busquedas de nuestras historietas favoritas.
 
 Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
 
+✔ web site:  <a href="https://www.youtube.com/watch?v=h9Hanc4Opic" target="_blank">
+VER VIDEO
+</a> 
 
