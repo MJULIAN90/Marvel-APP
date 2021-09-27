@@ -4,8 +4,7 @@
 
 # MARVEL APP
 
-Se creo una App en React Native en la cual interactuamos con una API proporcionada por <a href="https://www.marvel.com" target="_blank">MARVEL</a> en la cual podemos traer 
-informacion de sus personajes , toda su informacion relacionada con sus historietas y una descripciones de ellAs.
+Se creo una App en React Native en la cual interactuamos con una API proporcionada por <a href="https://www.marvel.com" target="_blank">MARVEL</a> en la cual podemos traer informacion de sus personajes , toda su informacion relacionada con sus historietas y una descripciones de ellas, tambien podemos realizar busquedas de nuestras historietas favoritas.
 
 
 <p align="center">
@@ -16,7 +15,10 @@ informacion de sus personajes , toda su informacion relacionada con sus historie
 
 *****************
 
-Tambien podemos realizar busquedas de nuestras historietas favoritas.
+
+### ¿Cómo se hizo?
+
+Se utilizo react native expo para el desarrollo de la App, se implemento el diferentes metodos de navegacion  que nos nos ayuda a redirigirnos a otras paginas ,  y se centralizo todos los estilos en un archivo global.
 
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/76981775/131618957-a23faf40-567b-4c1d-b8e1-20fea1b83b84.png" width="30%" height='450px'>
@@ -26,15 +28,12 @@ Tambien podemos realizar busquedas de nuestras historietas favoritas.
 
 *****************
 
-### ¿Cómo se hizo?
-
-Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
 
 
 ### STACK TECNOLÓGICO
 
 
-Se creó utilizando tecnologías como es el caso de React Native que nos permite desarrollar APP's tanto para ANDROID como para iOS, se utilizó TypeScript para generar codigo mas seguro.
+Se creó utilizando tecnologías como es el caso de React Native que nos permite desarrollar APP's tanto para ANDROID como para iOS.
 
 ********
 
