@@ -45,7 +45,7 @@ export default function Comics({ listComics }) {
     <ImageBackground source={image} style={{ height }}>
       <TouchableOpacity
         onPress={() => navigation.navigate("Home")}
-        style={{ ...styles.button, marginTop: 10 }}
+        style={{ ...styles.button, marginTop: 20 }}
       >
         <Text style={styles.textoButon}>VOLVER</Text>
       </TouchableOpacity>

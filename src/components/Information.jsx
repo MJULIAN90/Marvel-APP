@@ -20,7 +20,7 @@ export default function Information({ image, name, description }) {
     <ImageBackground source={imageFondo} style={{ height: dimensions.height }}>
       <TouchableOpacity
         onPress={() => navigation.navigate("Home")}
-        style={{ ...styles.button, marginTop: 10 }}
+        style={{ ...styles.button, marginTop: 20 }}
       >
         <Text style={styles.textoButon}>VOLVER</Text>
       </TouchableOpacity>
